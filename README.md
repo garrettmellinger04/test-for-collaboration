@@ -9,4 +9,8 @@ This is a repo for testing pulling, staging, committing, pulling, pushing, and c
 
 ## file and data information
 
+- README.md
+- testing-collab.qmd
+- testing-collab.pdf
+
 ## rendered output
