@@ -11,4 +11,8 @@ This is a repo for testing pulling, staging, committing, pulling, pushing, and c
 add file structure
 
 
+- README.md
+- testing-collab.qmd
+- testing-collab.pdf
+
 ## rendered output
