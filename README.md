@@ -8,5 +8,7 @@ This is a repo for testing pulling, staging, committing, pulling, pushing, and c
 
 
 ## file and data information
+add file structure
+
 
 ## rendered output
